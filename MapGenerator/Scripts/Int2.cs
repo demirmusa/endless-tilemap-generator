@@ -1,5 +1,5 @@
 ﻿/** \brief Auxiliar class to store coordinates inside the world grid*/
-
+/**I got it from web but I don't know remember references, I can add reference link if owner contact me*/
 public struct Int2
 {
     /** x coordinate */
